@@ -2,6 +2,11 @@
 
 A modern, responsive frontend application for ChatSync, a microservice-based real-time chat platform. Built with Next.js and TypeScript, featuring real-time messaging, user authentication, and a sleek interface powered by Tailwind CSS.
 
+## 🔗 Related Repositories
+
+[![GitHub](https://img.shields.io/badge/Frontend-ChatSync%20Frontend-blue)](https://github.com/NavjotSuman/chatApp-microservice-Frontend)
+[![GitHub](https://img.shields.io/badge/Backend-ChatSync%20Backend-green)](https://github.com/NavjotSuman/chatApp-microservice-Backend)
+
 ## 🚀 Features
 
 - **Real-time Messaging**: Instant chat communication using Socket.io
